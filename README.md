@@ -1,5 +1,5 @@
 <h1 align="center">Hi there :D</h1>
-===
+
 
 * Head of R&D at the best Odoo consultant team in Honduras &#x1f1ed;&#x1f1f3;
 * Computer Systems Engineer
